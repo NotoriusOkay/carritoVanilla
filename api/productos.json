@@ -1,0 +1,79 @@
+[
+    {
+        "title": "cafe",
+        "precio": 500,
+        "id": 1,
+        "url": "https://picsum.photos/id/0/600"
+
+    },
+    {
+        "title": "coca",
+        "precio": 500,
+        "id": 2,
+        "url": "https://picsum.photos/id/1/600"
+
+    },
+    {
+        "title": "malteada",
+        "precio": 900,
+        "id": 3,
+        "url": "https://picsum.photos/id/2/600"
+
+    },
+    {
+        "title": "leche",
+        "precio": 120,
+        "id": 4,
+        "url": "https://picsum.photos/id/3/600"
+
+    },
+    {
+        "title": "te",
+        "precio": 780,
+        "id": 5,
+        "url": "https://picsum.photos/id/4/600"
+
+    },
+    {
+        "title": "expresso",
+        "precio": 630,
+        "id": 6,
+        "url": "https://picsum.photos/id/5/600"
+
+    },
+    {
+        "title": "latte",
+        "precio": 210,
+        "id": 7,
+        "url": "https://picsum.photos/id/6/600"
+
+    },
+    {
+        "title": "galleta",
+        "precio": 874,
+        "id": 8,
+        "url": "https://picsum.photos/id/7/600"
+
+    },
+    {
+        "title": "atole",
+        "precio": 485,
+        "id": 9,
+        "url": "https://picsum.photos/id/8/600"
+
+    },
+    {
+        "title": "chocolate",
+        "precio": 500,
+        "id": 10,
+        "url": "https://picsum.photos/id/9/600"
+
+    },
+    {
+        "title": "licuado",
+        "precio": 500,
+        "id": 11,
+        "url": "https://picsum.photos/id/10/600"
+
+    }
+]
